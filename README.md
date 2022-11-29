@@ -1,1 +1,5 @@
-# safe_RL_POMDPs
+Safe Reinforcement Learmning for POMDPs
+=======================================
+
+
+
