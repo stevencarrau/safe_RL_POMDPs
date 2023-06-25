@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/571814987.svg)](https://zenodo.org/badge/latestdoi/571814987)
+
 Safe Reinforcement Learning for POMDPs
 =======================================
 
